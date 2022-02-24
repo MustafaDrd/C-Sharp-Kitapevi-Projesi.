@@ -1,0 +1,11 @@
+C:\Users\mdurd\OneDrive\Masaüstü\c#Proje\KitapKayıt\KitapKayıt\bin\Debug\KitapKayıt.exe.config
+C:\Users\mdurd\OneDrive\Masaüstü\c#Proje\KitapKayıt\KitapKayıt\bin\Debug\KitapKayıt.exe
+C:\Users\mdurd\OneDrive\Masaüstü\c#Proje\KitapKayıt\KitapKayıt\bin\Debug\KitapKayıt.pdb
+C:\Users\mdurd\OneDrive\Masaüstü\c#Proje\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.csproj.AssemblyReference.cache
+C:\Users\mdurd\OneDrive\Masaüstü\c#Proje\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.Properties.Resources.resources
+C:\Users\mdurd\OneDrive\Masaüstü\c#Proje\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.csproj.GenerateResource.cache
+C:\Users\mdurd\OneDrive\Masaüstü\c#Proje\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.csproj.CoreCompileInputs.cache
+C:\Users\mdurd\OneDrive\Masaüstü\c#Proje\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.exe
+C:\Users\mdurd\OneDrive\Masaüstü\c#Proje\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.pdb
+C:\Users\mdurd\OneDrive\Masaüstü\c#Proje\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdurd\OneDrive\Masaüstü\c#Proje\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.FrmKıtapEvı.resources
